@@ -20,10 +20,6 @@
     "react-markdown": "^4.2.2",
     "shards-react": "^1.0.3"
   },
-  "devDependencies": {
-    "autoprefixer": "^9.7.3",
-    "postcss": "^7.0.24"
-  },
   "browserslist": [
     "defaults",
     "not IE 11",

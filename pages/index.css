@@ -12,13 +12,10 @@ body,
 }
 
 .center {
-  /* display: flex; */
   align-self: center;
-  width: fit-content;
 
   flex-direction: column;
   text-align: center;
-  /* justify-self: center; */
 }
 
 .box {
