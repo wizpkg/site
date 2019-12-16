@@ -1,0 +1,60 @@
+html,
+body,
+.full,
+#__next {
+  width: 100%;
+  height: 100%;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+}
+
+.center {
+  /* display: flex; */
+  align-self: center;
+  width: fit-content;
+
+  flex-direction: column;
+  text-align: center;
+  /* justify-self: center; */
+}
+
+.box {
+  width: 30%;
+}
+
+html {
+  font-family: "Avenir";
+}
+
+.center p {
+  margin: 0;
+  margin-bottom: 0;
+}
+
+.features {
+  padding-left: 10rem;
+  padding-right: 10rem;
+}
+
+td {
+  padding-right: 2rem;
+}
+
+.features h1 {
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
+
+.footer {
+  width: 100%;
+  height: 5rem;
+  background-color: #ececec;
+  border-radius: 5px;
+}
+
+.footer > p {
+  margin-bottom: 0;
+}
