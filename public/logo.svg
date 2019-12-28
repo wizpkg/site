@@ -1,5 +1,5 @@
 
-<svg width="485px" height="103px" viewBox="0 0 485 103" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="485px" height="103px" viewBox="0 0 500 103" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="logo">
     <defs>
         <linearGradient x1="-151.04483%" y1="88.675685%" x2="248.933864%" y2="9.48881411%" id="linearGradient-1">
             <stop stop-color="#FFF200" offset="0%"></stop>
@@ -85,10 +85,10 @@
                 <path d="M51,25.6598961 C51,24.7432249 50.2404543,24 49.3036536,24 C40.2172672,24.0186415 31.8249909,28.7592335 27.2644036,36.4492211 C26.930601,36.9638862 26.9115504,37.6163356 27.214706,38.1488315 C27.51869,38.6813274 28.0960109,39.0079574 28.7188881,39 C29.3425935,38.9909371 29.9108034,38.6497182 30.1990497,38.1091173 C34.1533258,31.4435968 41.4274049,27.3351918 49.3036536,27.3197923 C50.2404543,27.3197923 51,26.5765674 51,25.6598961 Z" id="Path" fill="url(#linearGradient-14)"></path>
                 <path d="M64.3,89 L33.7,89 C32.7611816,89 32,89.7835693 32,90.75 L32,101.25 C32,102.216431 32.7611816,103 33.7,103 L64.3,103 C65.2388184,103 66,102.216431 66,101.25 L66,90.75 C66,89.7835693 65.2388184,89 64.3,89 Z M62.6,99.5 L35.4,99.5 L35.4,92.5 L62.6,92.5 L62.6,99.5 Z" id="Shape" fill="url(#linearGradient-15)"></path>
             </g>
-            <text id="wiz" fill="url(#linearGradient-16)" font-family="AvenirNext-Bold, Avenir Next" font-size="72" font-weight="bold">
+            <text id="wiz" fill="url(#linearGradient-16)" font-size="72" font-weight="bold">
                 <tspan x="225" y="224">wiz</tspan>
             </text>
-            <text id="project" font-family="AvenirNext-Bold, Avenir Next" font-size="72" font-weight="bold" fill="#4A4A4A">
+            <text id="project" font-size="72" font-weight="bold" fill="#4A4A4A">
                 <tspan x="464" y="222">project</tspan>
             </text>
         </g>
