@@ -12,7 +12,7 @@
   "dependencies": {
     "@zeit/next-css": "^1.0.1",
     "@zeit/next-sass": "^1.0.1",
-    "next": "9.1.5",
+    "next": "9.3.2",
     "next-images": "^1.2.0",
     "react": "16.12.0",
     "react-css-grid": "^2.0.0-0",
